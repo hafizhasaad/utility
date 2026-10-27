@@ -1,0 +1,148 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,RO TANK 2000 MT,,,,,,,RO #1A & #1B (XI'AN),,,,,,,,,,,,,,,,,,,,RO #2 (YAHUA),,,,,,,,,,,RO #3A & #3B (JIANGSHU),,,,,,,,,,,,,,,,,,,
+,,,,,,,,INLET SAND FILTER ,OUTLET SAND FILTER ,FEED RODEM #1A,,,,FEED RODEM #1B,,,,PERMEATE RODEM #1A,,,,,PERMEATE RODEM #1B,,,,,INLET SAND FILTER ,OUTLET SAND FILTER ,FEED RODEM #2,,,,PERMEATE RODEM #2,,,,,INLET SAND FILTER ,OUTLET SAND FILTER ,FEED RODEM #3A,,,,FEED RODEM #3B,,,,PERMEATE RODEM #3A,,,,,PERMEATE RODEM #3B,,,,
+Date ,pH,Conductivity,T. Hardness ,Silica ,Iron ,Chloride,Turbidity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity
+,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm Fe),(ppmCl-),NTU, (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2),, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2),, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2)
+,5.0 - 7.0,< 50,1.5; Max,< 5,< 0.10,< 30,<1,0.20 - 0.50,N/A,6.0 - 6.5,< 1000,< 0.10,< 0.50,6.0 - 6.5,< 1000,< 0.10,< 0.50,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,0.20 - 0.50,N/A,6.0 - 6.5,< 1000,< 0.10,< 0.50,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,0.20 - 0.50,N/A,6.0 - 6.5,< 1000,< 0.10,< 0.50,6.0 - 6.5,< 1000,< 0.10,< 0.50,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1
+Date ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1-Dec-25,5.81,46.04,0.99,3.653,0.03,10.9,,0.20,0.47,6.17,345.8,0.00,0.2,6.15,343.5,0.00,0.18,5.69,28.83,,1.848,,5.60,27.58,,1.848,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,0.36,0.4,6.22,326.9,0.00,0.24,6.26,323.3,0.00,0.22,5.47,18.34,,1.397,,5.48,18.34,,1.397,
+2-Dec-25,5.60,38.74,1.01,2.931,0.04,6.0,,0.20,0.32,6.16,336.2,0.00,0.24,6.13,324.8,0.01,0.25,5.50,26.78,,1.692,,5.53,27.71,,1.692,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,
+3-Dec-25,5.83,43.99,0.99,2.315,0.03,8.5,,0.46,0.67,6.28,420.1,0.00,0.19,6.27,418.3,0.01,0.17,5.53,17.47,,2.144,,5.51,17.15,,2.144,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,0.47,0.49,6.37,356.8,0.00,0.32,6.33,354.1,0.00,0.29,5.55,18.37,,1.581,,5.45,24.83,,2.176,
+4-Dec-25,5.80,48.38,1.01,2.427,0.02,7.1,,0.36,0.36,6.45,376.5,0.00,0.24,6.48,374.4,0.00,0.07,5.68,24.48,,1.817,,5.59,33.17,,1.817,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,0.50,0.42,6.23,360.6,0.00,0.27,6.24,354.4,0.00,0.24,5.58,20.49,,1.421,,5.57,25.22,,2.161,
+5-Dec-25,5.72,48.32,1.11,2.184,0.03,10.3,,0.49,0.53,6.36,549.6,0.00,0.37,6.35,546.5,0.00,0.24,5.72,37.86,,1.213,,5.64,38.09,,1.213,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,
+6-Dec-25,5.76,41.11,0.90,2.419,0.02,9.9,0.50,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,0.48,0.57,6.32,327.4,0.00,0.3,6.31,320.4,0.00,0.29,5.47,19.2,0.68,1.752,,5.31,23.6,1.30,1.997,
+7-Dec-25,5.98,44.38,1.18,2.798,0.01,12.8,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8-Dec-25,5.63,38.81,0.81,1.713,0.05,9.1,0.4,0.50,0.34,6.39,602.8,0.01,0.32,6.43,601.2,0.00,0.31,5.61,43.61,,0.951,,5.54,40.89,,0.951,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,stop,stop,stop,stop,
+9-Dec-25,5.98,45.51,1.40,1.638,0.05,9.7,0.4,0.39,0.38,6.31,505.1,0.00,0.31,6.33,505.3,0.00,0.31,5.36,35.19,,1.620,0.42,5.65,40.06,,3.056,0.38,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,0.44,0.49,6.22,458.8,0.00,0.5,6.26,459.5,0.00,0.41,5.3,24.02,,1.319,0.31,5.39,30.70,,1.858,0.35
+10-Dec-25,5.51,31.42,0.88,2.088,0.04,8.1,0.3,0.01,0.50,6.22,310.9,0.00,0.35,6.25,309.9,0.00,0.40,5.34,26.82,,1.403,0.24,5.41,35.46,,1.480,0.35,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,,0.42,0.41,6.21,422.3,0.01,0.34,6.17,427.2,0,0.48,5.09,24.98,,1.48,0.27,5.17,31.14,,1.63,0.42
+11-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31-Dec-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,RO TANK 2000 MT,,,,,,,RO #1A & #1B (XI'AN),,,,,,,,,,,,,,,,,,,,RO #2 (YAHUA),,,,,,,,,,,RO #3A & #3B (JIANGSHU),,,,,,,,,,,,,,,,,,,
+,,,,,,,,INLET SAND FILTER ,OUTLET SAND FILTER ,FEED RODEM #1A,,,,FEED RODEM #1B,,,,PERMEATE RODEM #1A,,,,,PERMEATE RODEM #1B,,,,,INLET SAND FILTER ,OUTLET SAND FILTER ,FEED RODEM #2,,,,PERMEATE RODEM #2,,,,,INLET SAND FILTER ,OUTLET SAND FILTER ,FEED RODEM #3A,,,,FEED RODEM #3B,,,,PERMEATE RODEM #3A,,,,,PERMEATE RODEM #3B,,,,
+Parameter,pH,Conductivity,T. Hardness ,Silica ,Iron ,Chloride,Turbidity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Turbidity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Silica ,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,Free Chlorine,Turbidity,pH,Conductivity,T. Hardness ,Silica ,Silica ,pH,Conductivity,T. Hardness ,Silica ,Silica 
+,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm Fe),(ppmCl-),NTU, (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2),, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm), (ppm Cl2),NTU,, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2),, (µS/cm),(ppm CaCO3),(ppm SiO2),(ppm SiO2)
+,5.0 - 7.0,< 50,1.5; Max,< 5,< 0.10,< 30,<1,0.20 - 0.50,N/A,6.0 - 6.5,< 1000,< 0.10,< 0.50,6.0 - 6.5,< 1000,< 0.10,< 0.50,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,0.20 - 0.50,N/A,6.0 - 6.5,< 1000,< 0.10,< 0.50,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,0.20 - 0.50,N/A,6.0 - 6.5,< 1000,< 0.10,< 0.50,6.0 - 6.5,< 1000,< 0.10,< 0.50,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1,5.0 - 7.0,< 50,1.5 : Max,< 5,< 1
+1-Dec-25,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data
+2-Dec-25,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,no data
+3-Dec-25,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data
+4-Dec-25,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data
+5-Dec-25,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,no data
+6-Dec-25,100%,100%,100%,100%,100%,100%,100%,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,no data
+7-Dec-25,100%,100%,100%,100%,100%,100%,100%,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+8-Dec-25,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,no data,100%,100%,no data,100%,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,stop,stop,stop,stop,no data
+9-Dec-25,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,no data,100%,100%,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,no data,100%,100%
+10-Dec-25,100%,100%,100%,100%,100%,100%,100%,0%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,no data,100%,100%,stop,stop,stop,stop,stop,stop,stop,stop,stop,stop,no data,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,no data,100%,100%,100%,100%,no data,100%,100%
+11-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+12-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+13-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+14-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+15-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+16-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+17-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+18-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+19-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+20-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+21-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+22-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+23-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+24-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+25-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+26-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+27-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+28-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+29-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+30-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+31-Dec-25,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+Conformance,100%,100%,100%,100%,100%,100%,100%,88%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,,100%,100%,100%,100%,,100%,100%,,,,,,,,,,,,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OVERALL VALUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date ,RO TANK,RO XI'AN,RO YAHUA,RO JIANGSHU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/1/2025,100%,100%,stop,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/2/2025,100%,100%,stop,stop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/3/2025,100%,100%,stop,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/4/2025,100%,100%,stop,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/5/2025,100%,100%,stop,stop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/6/2025,100%,stop,stop,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/7/2025,100%,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/8/2025,100%,100%,stop,stop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/9/2025,100%,100%,stop,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/10/2025,100%,94%,stop,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/11/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/12/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/13/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/14/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/15/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/16/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/17/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/18/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/19/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/20/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/21/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/22/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/23/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/24/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/25/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/26/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/27/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/28/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/29/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/30/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/31/2025,no data,no data,no data,no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Conformance,100%,99%,,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,RO & MIXBED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/1/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/2/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/3/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/4/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/5/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/6/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/7/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/8/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/9/2025,100%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/10/2025,98%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/11/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/12/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/13/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/14/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/15/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/16/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/17/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/18/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/19/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/20/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/21/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/22/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/23/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/24/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/25/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/26/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/27/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/28/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/29/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/30/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/31/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
