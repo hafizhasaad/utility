@@ -1,0 +1,177 @@
+{
+  "dashboard_name": "Water Utility Compliance Dashboard",
+  "generated_at": "2026-10-27T07:35:00Z",
+  "filters": {
+    "date": true,
+    "month": true,
+    "year": true,
+    "plant": true
+  },
+  "overall": {
+    "daily_compliance": 92.5,
+    "monthly_compliance": 94.2,
+    "yearly_compliance": 91.8
+  },
+  "plants": [
+    {
+      "plant": "Boiler & BFW",
+      "daily_kpi": 91.4,
+      "monthly_kpi": 93.1,
+      "yearly_kpi": 90.7,
+      "status": "Watch",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Silica", "Iron", "Turbidity", "Phosphate", "DO"],
+      "problems": [
+        "Blowdown control belum konsisten.",
+        "Risiko scale dan carryover pada sistem boiler.",
+        "Beberapa parameter pH dan silica melewati batas monitor."
+      ],
+      "recommendations": [
+        "Tingkatkan kontrol blowdown dan monitoring pH feedwater.",
+        "Review dosis phosphate dan oxygen scavenger.",
+        "Lakukan pembersihan heat transfer/scale pada area yang rawan."
+      ]
+    },
+    {
+      "plant": "BWRO",
+      "daily_kpi": 95.2,
+      "monthly_kpi": 96.6,
+      "yearly_kpi": 94.9,
+      "status": "Good",
+      "out_of_limit_parameters": ["Turbidity", "Chloride", "Free Chlorine", "Conductivity"],
+      "problems": [
+        "Backwash filter belum optimal di beberapa hari.",
+        "Variasi tekanan RO pada beberapa unit."
+      ],
+      "recommendations": [
+        "Atur jadwal backwash dan cek media filter.",
+        "Monitoring tekanan feed dan permeate tiap shift.",
+        "Review antiscalant dan cleaning membrane rutin."
+      ]
+    },
+    {
+      "plant": "Cooling Tower",
+      "daily_kpi": 88.7,
+      "monthly_kpi": 90.4,
+      "yearly_kpi": 89.2,
+      "status": "Watch",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Calcium Hardness", "Iron", "Silica", "Orthophosphate", "Free Chlorine", "Chloride", "Turbidity"],
+      "problems": [
+        "Konsentrasi tower naik melebihi target.",
+        "Dosis inhibitor dan klorin belum stabil.",
+        "Risiko scaling dan korosi pada rangkaian cooling tower."
+      ],
+      "recommendations": [
+        "Tingkatkan kontrol blowdown dan dosing inhibitor.",
+        "Pantau iron dan silica pada sisi make-up dan basin.",
+        "Lakukan pembersihan drift eliminator dan basin."
+      ]
+    },
+    {
+      "plant": "Demin Water",
+      "daily_kpi": 93.8,
+      "monthly_kpi": 95.2,
+      "yearly_kpi": 94.1,
+      "status": "Good",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Total Hardness", "Silica", "Iron", "Turbidity", "Free Chlorine"],
+      "problems": [
+        "Regenerasi resin belum konsisten pada beberapa siklus.",
+        "Parameter silica dan total hardness berpotensi naik sebelum RO."
+      ],
+      "recommendations": [
+        "Review schedule regenerasi resin dan backwash sand filter.",
+        "Pantau pH dan silica sebelum masuk sistem downstream.",
+        "Lakukan inspection resin loading secara berkala."
+      ]
+    },
+    {
+      "plant": "Lay Up Boiler",
+      "daily_kpi": 82.5,
+      "monthly_kpi": 84.9,
+      "yearly_kpi": 83.3,
+      "status": "Action",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Silica", "Phosphate", "P-Alkalinity", "M-Alkalinity", "O-Alkalinity", "Sulphite"],
+      "problems": [
+        "Lay-up chemistry belum sepenuhnya terjaga.",
+        "Potensi korosi internal meningkat saat boiler idle."
+      ],
+      "recommendations": [
+        "Pastikan pH, phosphate, dan sulphite sesuai standard lay-up.",
+        "Review histori siting dan chemical dosing saat boiler idle.",
+        "Lakukan inspeksi internal boiler untuk korosi."
+      ]
+    },
+    {
+      "plant": "Lay Up CT",
+      "daily_kpi": 86.2,
+      "monthly_kpi": 88.5,
+      "yearly_kpi": 87.1,
+      "status": "Watch",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Iron", "Orthophosphate", "Free Chlorine", "Turbidity"],
+      "problems": [
+        "Dosis inhibitor belum stabil saat unit lay-up.",
+        "Free chlorine dan iron perlu monitoring lebih intensif."
+      ],
+      "recommendations": [
+        "Pantau inhibitor dan free chlorine setiap hari.",
+        "Review kondisi tower basin selama unit standby.",
+        "Lakukan flush dan pembersihan jika iron mulai meningkat."
+      ]
+    },
+    {
+      "plant": "Raw Water",
+      "daily_kpi": 90.6,
+      "monthly_kpi": 92.3,
+      "yearly_kpi": 91.1,
+      "status": "Good",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Total Hardness", "Silica", "Iron", "Chloride", "Turbidity"],
+      "problems": [
+        "Turbidity raw water naik pada periode tertentu.",
+        "Koagulasi/pretreatment perlu dikaji untuk menjaga konsistensi."
+      ],
+      "recommendations": [
+        "Review dose koagulan dan kontrol turbidity inlet.",
+        "Pantau raw water hardness dan silica secara berkala.",
+        "Cek sand filter dan backwash performance."
+      ]
+    },
+    {
+      "plant": "RO Water",
+      "daily_kpi": 94.4,
+      "monthly_kpi": 95.8,
+      "yearly_kpi": 93.9,
+      "status": "Good",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Total Hardness", "Silica", "Iron", "Chloride", "Turbidity"],
+      "problems": [
+        "Variasi feedwater dan recovery rate memengaruhi permeate stability.",
+        "Monitoring antiscalant diperlukan untuk mencegah scaling."
+      ],
+      "recommendations": [
+        "Review antiscalant dosing dan flushing schedule.",
+        "Pantau pH dan silica pada feed per shift.",
+        "Lakukan cleaning membrane bila scaling meningkat."
+      ]
+    },
+    {
+      "plant": "SWRO",
+      "daily_kpi": 92.7,
+      "monthly_kpi": 93.8,
+      "yearly_kpi": 92.1,
+      "status": "Good",
+      "out_of_limit_parameters": ["pH", "Conductivity", "Total Hardness", "Silica", "Iron", "Chloride", "Turbidity", "Free Chlorine"],
+      "problems": [
+        "Feed pretreatment harus dijaga untuk mencegah scaling.",
+        "Potensi fluktuasi tekanan membran pada beberapa periode."
+      ],
+      "recommendations": [
+        "Review recovery rate dan antiscalant dosing.",
+        "Lakukan CEB/cleaning membrane sesuai schedule.",
+        "Monitoring free chlorine dan SDI feedwater lebih intensif."
+      ]
+    }
+  ],
+  "notes": [
+    "File JSON ini merupakan konfigurasi dasar dashboard KPI Water Utility Compliance.",
+    "Untuk hasil aktual yang presisi, data CSV perlu diproses lebih lanjut dengan parser khusus untuk struktur tabel multi-header.",
+    "Status KPI dapat diubah sesuai hasil validasi final di Excel/Google Sheets."
+  ]
+}
